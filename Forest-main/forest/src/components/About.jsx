@@ -8,7 +8,7 @@ const About = () => {
       <div className='flex justify-between px-[3vw]'>
         {/* <img className='h-[10vw] w-[10vw] object-cover rounded-full' src={} alt="" /> */}
         <div className='flex justify-center items-start flex-col w-[30vw]'>
-        <h1>Name: Samanwvay Gupta</h1>
+        <h1>Name: Samanvay Gupta</h1>
         <h1>Reg no. : 12316962</h1> 
         <h1>Role: Developer</h1>
         </div>
